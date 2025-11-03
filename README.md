@@ -3,5 +3,5 @@
 - IT College Student
 
 # My websites
-- atush.eu
-- matus-hubinsky.eu
+- https://atush.eu
+- https://matus-hubinsky.eu
