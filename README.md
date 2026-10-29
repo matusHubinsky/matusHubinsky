@@ -1,6 +1,6 @@
 # Matúš Hubinský
 
-Cyber Defence Analyst - SOC / Threat Intel Team. 
+Cyber Defence Analyst — SOC / Threat Intel Team. 
 CVE triage, vulnerability response, writing procedures... Student at PEF Mendelu University, working on OSDA (OffSec).
 
 - [matus-hubinsky.eu](https://matus-hubinsky.eu) — portfolio
@@ -11,3 +11,5 @@ CVE triage, vulnerability response, writing procedures... Student at PEF Mendelu
 Pinned repos worth a look: 
 - [ipk-project-2](https://github.com/matusHubinsky/ipk-project-2) (L4 port scanner in C, tested against nmap)
 - [ios-deadlock-tester](https://github.com/matusHubinsky/ios-deadlock-tester). (useful old project tool)
+
+// I love em—dash
